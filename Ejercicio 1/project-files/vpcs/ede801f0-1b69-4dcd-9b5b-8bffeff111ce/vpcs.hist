@@ -1,0 +1,12 @@
+show ip
+show ip
+ip
+ip 192.168.9.2 255.255.255.224 192.168.9.1
+show ip
+]]
+?
+show ip
+save
+help save
+save help
+quit
